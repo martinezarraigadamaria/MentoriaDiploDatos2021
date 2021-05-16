@@ -1,6 +1,6 @@
 ### Mentoria 2021
 
-## Repositorio de la mentoría
+## Repositorio
 
 # Selección de cripto activos para un cartera de inversión
 
@@ -14,32 +14,32 @@ En un mercado con una alta volatilidad, es necesario comprender los riesgos de l
 
 ## Detalles
 
-En el archivo [dataset.csv](https://github.com/sergiobuzzi/MentoriaDiplodatos2020/blob/master/dataset.csv) se proveen datos sobre los valores de cierre diario de 11 índices bursátiles (aproximadamente 19 años), y series de tipos de cambio para efectuar el análisis en una moneda común. Dicho dataset también contiene una serie de dolar "blue" para ajustar el tipo de cambio de Argentina en épocas de cepo cambiario.
+En el archivo [dataset.csv](https://github.com/martinezarraigadamaria/MentoriaDiploDatos2021/tree/master/data) se proveen varios datasets, conformados por los precios de cierre, apertura, mayor y menor valor del activo por sesión y volumen. Se cuenta con un subconjunto heterogéneo de activos, que cubren aquellos de mayor maduración y más populares como Bitcoin, Ethereum entre otros y algunos tokens de proyectos más recientes.
 
-Luego se presentan carpetas en las cuales se irán cargando los enunciados y soluciones de cada uno de los trabajos prácticos. A continuación se plantean los posibles contenidos generales a desarollar en los mismos:
+Luego se presentan carpetas en las cuales se irán cargando los enunciados y soluciones de cada uno de los trabajos prácticos. A continuación se plantean los posibles contenidos generales a desarollar en los mismos.
 
-#### TP1: Análisis y Visualización (29/6)
+#### 📌 TP1: Análisis y Visualización (6/6)
 
-Exploración de la base de datos. Medidas de Estadística Descriptiva. Gráficos de evolución temporal. Identificación de outliers "comunes" vs. identificación de outliers temporales. Cálculo de correlaciones. Intuición básica del concepto de raíz unitaria.
+Exploración de los datos a partir de gráficos que muestran la evolución temporal de las series, cálculo de medidas descriptivas y correlaciones entre las series (tanto de los precios como de las características que surjan de los mismos).
 
-#### TP2: Análisis y Curación de Datos (19/7)
+#### 📌 TP2: Análisis y Curación de Datos (4/7)
 
-Curación de la base de datos. Imputación de faltantes. Reconstrucción de serie de tipo de cambio de Argentina. Expresión de los índices en moneda común. Transformaciones de los datos.
+Análisis de existencia de datos faltantes y en tal caso proceder a su imputación o reemplazar estos valores a partir de diferentes técnicas de aproximación. Discusión sobre outliers en el contexto del problema.
 
-#### TP3: Introducción al Machine Learning (16/8)
+#### 📌 TP3: Introducción al Machine Learning (15/8)
 
-Separación de datos en entremamiento, validación y test. Aplicación de metodos simples de ML para regresión univariante. Selección de métrica. Selección de hiperparámetros. Comparación de resultados.
+Determinación de los conjuntos de entrenamiento, validación y tests, utilizando metodologías adecuadas para las series temporales. Aplicación de métodos sencillos de machine learning, como árboles de decisión para el armado de carteras de inversión.
 
-#### TP4: Aprendizaje Supervisado (13/9)
+#### 📌 TP4: Aprendizaje Supervisado (12/9)
 
-Estimación de modelos de serie temporales univariados y multivariados (ARMA y VAR). Estimación usando LSTM. Comparación. 
+Aplicación de métodos más complejos como boosting, random forest y comparación de  los resultados obtenidos. Trabajo con redes neuronales específicas para series de tiempo.
 
-#### TP5: Aprendizaje No Supervisado (27/9)
+#### 📌 TP5: Aprendizaje No Supervisado (2/10)
 
-Aplicacion de algoritmos de clustering de series de tiempo.
+Mejorar la selección de los features calculados al comienzo de la mentoría, de manera de eliminar aquellos que producen ruido o que no aportan más información de la ya obtenida. Ccomparación de los resultados obtenidos anteriormente con aquellos resultantes del mismo procedimiento pero con menos features.
 
-#### Presentación Final (6/11 - 7/11) 
+#### 📽️ Presentación Final (12/11 y 13/11) 
 
-Ideas: Combinación de modelos de la literatura específica de series temporales (ARMA - VAR - VECM) con LSTM. Presentación de los resultados de los prácticos.
+
 
 
