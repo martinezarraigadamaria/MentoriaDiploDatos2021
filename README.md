@@ -14,7 +14,7 @@ En un mercado con una alta volatilidad, es necesario comprender los riesgos de l
 
 ## Detalles
 
-En el archivo [dataset.csv](https://github.com/martinezarraigadamaria/MentoriaDiploDatos2021/tree/master/data) se proveen varios datasets, conformados por los precios de cierre, apertura, mayor y menor valor del activo por sesión y volumen. Se cuenta con un subconjunto heterogéneo de activos, que cubren aquellos de mayor maduración y más populares como Bitcoin, Ethereum entre otros y algunos tokens de proyectos más recientes.
+En la carpeta [data](https://github.com/martinezarraigadamaria/MentoriaDiploDatos2021/tree/master/data) se proveen varios datasets, conformados por los precios de cierre, apertura, mayor y menor valor del activo por sesión y volumen. Se cuenta con un subconjunto heterogéneo de activos, que cubren aquellos de mayor maduración y más populares como Bitcoin, Ethereum entre otros y algunos tokens de proyectos más recientes.
 
 Luego se presentan carpetas en las cuales se irán cargando los enunciados y soluciones de cada uno de los trabajos prácticos. A continuación se plantean los posibles contenidos generales a desarollar en los mismos.
 
