@@ -10,6 +10,8 @@ Cuando hablamos de criptomonedas, la diversificación también podría ser una d
 
 En un mercado con una alta volatilidad, es necesario comprender los riesgos de la exposición y poder cubrirse de posibles pérdidas significativas. Además, contar con una cartera acorde a cada inversor (según su aversión al riesgo) permite una participación más heterogénea en este tipo de mercados. Desde el punto de vista de los datos, se trabajará con series de tiempo, y veremos que este tipo de datos requieren un tratamiento específico.
 
+Les comparto [Trading View](https://www.tradingview.com/), una plataforma donde podrán seguir la evolución de diferentes activos, que ofrece un abanico de funcionalidades para el análisis de mercado.
+
 ¡Espero que te interese el desafío y aprendamos mucho en el camino!
 
 ## Detalles
