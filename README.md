@@ -1,6 +1,10 @@
 ### Mentoria 2021
 
-## Repositorio
+#### Mentora: María de los Ángeles Martínez
+
+### Grupo I
+
+### Grupo II
 
 # Selección de cripto activos para un cartera de inversión
 
