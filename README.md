@@ -4,7 +4,7 @@
 
 # Selección de cripto activos para un cartera de inversión
 
-En el mundo de las finanzas tradicionales, el desempeño de diferentes activos podría variar bajo diferentes condiciones de mercado. Es entonces cuando entra en juego la diversificación. El objetivo principal de la exposición a diferentes clases de activos es equilibrar el riesgo y el rendimiento de una cartera. 
+En el mundo de las finanzas tradicionales, el desempeño de diferentes activos varía según las condiciones de mercado. Es entonces cuando entra en juego la diversificación. El objetivo principal de la exposición a diferentes clases de activos es equilibrar el riesgo y el rendimiento de una cartera. 
 
 Cuando hablamos de criptomonedas, la diversificación también podría ser una de las formas de gestionar la exposición al riesgo. Sin embargo, la alta correlación entre algunos activos dificulta la selección de una cartera equilibrada. A pesar de ello, con una cesta cuidadosamente seleccionada, de monedas alternativas, junto con algunas monedas estables, se podría invertir en el mercado de manera más efectiva con un riesgo manejable. Por lo cual, el objetivo principal de este proyecto es determinar una forma de seleccionar algunos activos para nuestra cartera, tomados de un conjunto más amplio, según los momentos de mercado.
 
