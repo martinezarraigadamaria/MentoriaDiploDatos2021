@@ -28,6 +28,10 @@ Explorar los datos a partir de gráficos que muestran la evolución temporal de 
 
 Analizar la existencia de datos faltantes y en tal caso proceder a su imputación o reemplazar estos valores a partir de diferentes técnicas de aproximación. Discutir sobre outliers en el contexto del problema.
 
+#### 📽️ Entrega - Video de presentación del proyecto y dataset (7/4)
+
+#### 🗣️ Jornada - Discusión sobre presentación de proyectos y datasets (17/7)
+
 #### 📌 TP3 - Introducción al Machine Learning (15/8)
 
 Determinar los conjuntos de entrenamiento, validación y tests, utilizando metodologías adecuadas para las series temporales. Aplicar métodos sencillos de machine learning, como árboles de decisión para el armado de carteras de inversión.
