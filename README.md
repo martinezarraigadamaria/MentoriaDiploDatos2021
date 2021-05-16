@@ -2,9 +2,11 @@
 
 #### Mentora: María de los Ángeles Martínez
 
-### Grupo I
+#### Grupo I - : Nicola Mori, Daniela Parada y Ezequiel Kinigsberg
+Repositorio
 
-### Grupo II
+#### Grupo II - Lioren Bessone, Noemi Cortez y Rodrigo Sebastian Ferrer
+Repositorio
 
 # Selección de cripto activos para un cartera de inversión
 
