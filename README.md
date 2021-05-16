@@ -22,23 +22,23 @@ Luego se presentan carpetas en las cuales se irán cargando los enunciados y sol
 
 #### 📌 TP1 - Análisis y Visualización (6/6)
 
-Exploración de los datos a partir de gráficos que muestran la evolución temporal de las series, cálculo de medidas descriptivas y correlaciones entre las series (tanto de los precios como de las características que surjan de los mismos).
+Explorar los datos a partir de gráficos que muestran la evolución temporal de las series, calcular medidas descriptivas y correlaciones entre las series (tanto de los precios como de las características que surjan de los mismos).
 
 #### 📌 TP2 - Análisis y Curación de Datos (4/7)
 
-Análisis de existencia de datos faltantes y en tal caso proceder a su imputación o reemplazar estos valores a partir de diferentes técnicas de aproximación. Discusión sobre outliers en el contexto del problema.
+Analizar la existencia de datos faltantes y en tal caso proceder a su imputación o reemplazar estos valores a partir de diferentes técnicas de aproximación. Discutir sobre outliers en el contexto del problema.
 
 #### 📌 TP3 - Introducción al Machine Learning (15/8)
 
-Determinación de los conjuntos de entrenamiento, validación y tests, utilizando metodologías adecuadas para las series temporales. Aplicación de métodos sencillos de machine learning, como árboles de decisión para el armado de carteras de inversión.
+Determinar los conjuntos de entrenamiento, validación y tests, utilizando metodologías adecuadas para las series temporales. Aplicar métodos sencillos de machine learning, como árboles de decisión para el armado de carteras de inversión.
 
 #### 📌 TP4 - Aprendizaje Supervisado (12/9)
 
-Aplicación de métodos más complejos como boosting, random forest y comparación de  los resultados obtenidos. Trabajo con redes neuronales específicas para series de tiempo.
+Aplicar métodos más complejos como boosting, random forest y comparar los resultados obtenidos. Trabajar con redes neuronales específicas para series de tiempo.
 
 #### 📌 TP5 - Aprendizaje No Supervisado (2/10)
 
-Mejorar la selección de los features calculados al comienzo de la mentoría, de manera de eliminar aquellos que producen ruido o que no aportan más información de la ya obtenida. Ccomparación de los resultados obtenidos anteriormente con aquellos resultantes del mismo procedimiento pero con menos features.
+Refinar la selección de los features, de manera de eliminar aquellos que producen ruido o que no aportan más información de la ya obtenida. Comparar los resultados obtenidos a lo largo del proceso.
 
 #### 📽️ Presentación Final (12/11 y 13/11) 
 
