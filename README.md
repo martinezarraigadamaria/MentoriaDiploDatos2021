@@ -2,7 +2,7 @@
 
 #### Mentora: María de los Ángeles Martínez
 
-#### Grupo I - : Nicola Mori, Daniela Parada y Ezequiel Kinigsberg
+#### Grupo I - Nicola Mori, Daniela Parada y Ezequiel Kinigsberg
 Repositorio
 
 #### Grupo II - Lioren Bessone, Noemi Cortez y Rodrigo Sebastian Ferrer
