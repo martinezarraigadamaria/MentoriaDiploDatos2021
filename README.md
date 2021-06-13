@@ -3,10 +3,10 @@
 #### Mentora: María de los Ángeles Martínez
 
 #### Grupo I - Nicola Mori, Daniela Parada y Ezequiel Kinigsberg
-Repositorio
+ [Link al repositorio](https://github.com/Nico-Mori/DiploDatos/tree/main/Mentoria)
 
 #### Grupo II - Lioren Bessone, Noemi Cortez y Rodrigo Sebastian Ferrer
-Repositorio
+ [Link al repositorio](https://github.com/charly3d/Diplomatura-de-Datos-Mentoria)
 
 # Selección de cripto activos para un cartera de inversión
 
