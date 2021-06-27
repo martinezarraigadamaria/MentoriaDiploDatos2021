@@ -34,7 +34,7 @@ Explorar los datos a partir de gráficos que muestran la evolución temporal de 
 
 Analizar la existencia de datos faltantes y en tal caso proceder a su imputación o reemplazar estos valores a partir de diferentes técnicas de aproximación. Discutir sobre outliers en el contexto del problema.
 
-#### 📽️ Entrega - Video de presentación del proyecto y dataset (7/4)
+#### 📽️ Entrega - Video de presentación del proyecto y dataset (4/7)
 
 #### 🗣️ Jornada - Discusión sobre presentación de proyectos y datasets (17/7)
 
